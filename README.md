@@ -1,3 +1,5 @@
+[Badge]() [Link](src) ![image](src)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/colorstheforce/colors-web-dev/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
